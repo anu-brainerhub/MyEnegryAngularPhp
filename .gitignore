@@ -1,0 +1,65 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/Angular/dist
+/Angular/tmp
+/Angular/out-tsc
+/Angular/bazel-out
+
+# Node
+/Angular/node_modules
+/Angular/npm-debug.log
+/Angular/yarn-error.log
+
+# IDEs and editors
+/Angular/.idea/
+/Angular/.project
+/Angular/.classpath
+/Angular/.c9/
+/Angular/*.launch
+/Angular/.settings/
+/Angular/*.sublime-workspace
+
+# Visual Studio Code
+/Angular/.vscode
+/Angular/.vscode/*
+/Angular/.history/*
+
+# Miscellaneous
+/Angular//.angular/cache
+/Angular/.sass-cache/
+/Angular//connect.lock
+/Angular//coverage
+/Angular//libpeerconnection.log
+/Angular/testem.log
+/Angular//typings
+
+# System files
+/Angular/.DS_Store
+/Angular/Thumbs.db
+
+# Compiled files
+/Angular/layout.css
+/Angular/src/assets/demo/styles/badges.css
+
+
+/Laravel/.phpunit.cache
+/Laravel/node_modules
+/Laravel/public/build
+/Laravel/public/hot
+/Laravel/public/storage
+/Laravel/storage/*.key
+/Laravel/vendor
+/Laravel.env
+/Laravel/.env.backup
+/Laravel/.env.production
+/Laravel/.phpunit.result.cache
+/Laravel/Homestead.json
+/Laravel/Homestead.yaml
+/Laravel/auth.json
+/Laravel/npm-debug.log
+/Laravel/yarn-error.log
+/Laravel/.fleet
+/Laravel/.idea
+/Laravel/.vscode
+
